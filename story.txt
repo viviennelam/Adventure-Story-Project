@@ -1,9 +1,8 @@
 /title Not your average adventure
 
-One sunny day, Jay and Kate went hiking.
-This is not your average adventure story
-They hiked on a trail that they always hike on, the one with the best views
-They come across a new trail that they've never seen before.
+This is not your average adventure story.
+
+One sunny day, Jay and Kate went hiking. They hiked on a trail that they always hike on, the one with the best views. Jay usually navigates and Kate is in charge of the sustenance for the hikes. They come across a new trail that they've never seen before.
 Jay says "Let's go down this one!"
 Kate looking unsure, says "Are you sure? It looks dangerous."
 Jay confidently says "Yes, let's go explore this new trail."
@@ -11,7 +10,8 @@ Jay grabs Kate's arm and leads them down the twisty path.
 As they walk, the path gets narrower and narrower.
 Kate recognises this and stops. She nervously says “Jay, I think we should turn back. It doesn’t seem safe.”
 Jay dismisses her worries and says “Come on Kate, sometimes you need to take a chance and explore an unknown place.”
-They continue to walk and reach a fork in the path. Kate says “So, what now?”
+They continue to walk and reach a fork in the path.
+Kate says “So, what now?”
 Jay replies saying “I think we should take the path on the left, because it points to the general direction where we usually hike.”
 Dissatisfied with his response, Kate says “How do you even know this? This just feels wrong. Can we please turn back?”
 Jay insists “I’m good at navigating! You know this, so please trust me.”
@@ -20,6 +20,9 @@ They head down the left path. Although the path looked completely clear at the f
 Jay says, in a panicked tone, “This makes it almost impossible to navigate. I don’t think I know where we are anymore.”
 Kate exclaims “You said that I could trust you! So you are basically saying that we are lost!”
 Jay sits down on a rock and says “I’m sorry! I thought I knew what I was doing.”
-At this moment, the sky starts to get dimmer and gradually turns to black.
-Kate says “Oh no, the sun is setting. Getting ourselves out of here is going to be impossible without a flashlight.”
-Looking through his backpack, Jay says “I also only have a snack bar left. We really need to find our way out.”  
+They both sit down somewhat defeated. Because they were both contemplating their next steps in silence, they could hear the distant sound of rushing water and birds chirping.
+Breaking the silence, Kate says "Do you hear that?"
+Jay says "Yes! It seems to be quite close by. Maybe we should go check it out because I hear water, which is always good news."
+They start walking towards the sounds. The trees around them became more densely packed and the sounds grew louder.
+The sounds gave them both the hope they needed to keep going. At this moment, they are met with a sharp turn in the path. Around the bend, they enter a whole different world.
+Both Jay and Kate look at each other in awe. 
