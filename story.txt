@@ -1,3 +1,5 @@
+/title Not your average adventure
+
 One sunny day, Jay and Kate went hiking.
 This is not your average adventure story
 They hiked on a trail that they always hike on, the one with the best views
@@ -13,4 +15,4 @@ They continue to walk and reach a fork in the path. Kate says “So, what now?�
 Jay replies saying “I think we should take the path on the left, because it points to the general direction where we usually hike.”
 Dissatisfied with his response, Kate says “How do you even know this? This just feels wrong. Can we please turn back?”
 Jay insists “I’m good at navigating! You know this, so please trust me.”
-Kate still hesitant but says “Fine. But if we get lost, then it is all your fault.” 
+Kate still hesitant but says “Fine. But if we get lost, then it is all your fault.”
