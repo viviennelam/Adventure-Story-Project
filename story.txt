@@ -7,3 +7,10 @@ Kate looking unsure, says "Are you sure? It looks dangerous."
 Jay confidently says "Yes, let's go explore this new trail."
 Jay grabs Kate's arm and leads them down the twisty path.
 As they walk, the path gets narrower and narrower.
+Kate recognises this and stops. She nervously says “Jay, I think we should turn back. It doesn’t seem safe.”
+Jay dismisses her worries and says “Come on Kate, sometimes you need to take a chance and explore an unknown place.”
+They continue to walk and reach a fork in the path. Kate says “So, what now?”
+Jay replies saying “I think we should take the path on the left, because it points to the general direction where we usually hike.”
+Dissatisfied with his response, Kate says “How do you even know this? This just feels wrong. Can we please turn back?”
+Jay insists “I’m good at navigating! You know this, so please trust me.”
+Kate still hesitant but says “Fine. But if we get lost, then it is all your fault.” 
